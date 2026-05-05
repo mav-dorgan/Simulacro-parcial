@@ -1,3 +1,3 @@
-Mav Dorgan (M. de la Paz Dorgan)
-Simulacro Primer Parcial - Informática General
-Artes Multimediales - UNA
+<p>Mav Dorgan (M. de la Paz Dorgan) <br>
+Simulacro Primer Parcial - Informática General <br>
+Artes Multimediales - UNA </p>
