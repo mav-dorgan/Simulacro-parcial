@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-image: url("../img/fondo.png");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: auto;
+    font-family: "roboto", sans-serif;
+}
+#contenedor {
+width: 75%;
+max-width: 960px;
+margin: 0 auto;
+padding: 5%;
+background-color: rgb(24, 46, 94);
+border: 1rem white double;
+color: white;
+}
+h1, h2, h3 {
+    font-family: "lato", "roboto", sans-serif;
+    font-size: 1.5rem;
+}
+header {
+    text-align: center;
+    font-size: 2rem;
+}
+blockquote {
+    font-style: oblique;
+    font-weight: lighter;
+    font-size: 1rem;
+}
+
+
