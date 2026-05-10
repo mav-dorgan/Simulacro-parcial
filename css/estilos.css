@@ -27,9 +27,44 @@ header {
     font-size: 2rem;
 }
 blockquote {
+    width: 50%;
+    margin: auto;
     font-style: oblique;
-    font-weight: lighter;
+    font-weight: light;
     font-size: 1rem;
 }
 
+/*menu de navegación*/
+nav ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;   
+}
+nav li{
+    display: inline-block;
+}
+nav a{
+    font-size: 1.2rem;
+    line-height: 2.2rem;
+    padding: 0.5em;
+    text-align: center;
+    text-decoration: none;
+}
+nav a:link {
+    background-color:rgb(83, 94, 156);
+    color:beige;
+}
+nav a:visited {
+    background-color:rgb(83, 127, 156);
+    color:beige;
+}
+nav a:hover {
+    background-color:rgb(118, 128, 184);
+    color:beige;
+    font-style: italic;
+}
+nav a:active {
+    background-color: beige;
+    color: rgb(155, 174, 214);
+}
 
